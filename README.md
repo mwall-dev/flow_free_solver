@@ -4,9 +4,9 @@
 
 
 ## Instructions and Sample
-![alt text](https://github.com/mwall-dev/flow_free_solver/blob/master/example1.jpg)
+![alt text](https://github.com/mwall-dev/flow_free_solver/blob/master/example1.JPG)
 
-![alt text](https://github.com/mwall-dev/flow_free_solver/blob/master/example.jpg)
+![alt text](https://github.com/mwall-dev/flow_free_solver/blob/master/example.JPG)
 
 
 

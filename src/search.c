@@ -103,10 +103,7 @@ int game_dijkstra_search(const game_info_t* info,
            
  
 
-	/**
-	 * FILL IN THE CODE BELOW TO PERFORM DIJKSTRA OVER THE POSSIBLE
-	 * MOVES TO SOLVE FLOW GAME
-	 */
+	
   
   
   tree_node_t* node = NULL;
@@ -155,9 +152,7 @@ int game_dijkstra_search(const game_info_t* info,
   }
    
   
-	/**
-	 * END OF FILL IN CODE SECTION
-	 */
+	
 
 	//Get Stats
 	double elapsed = now() - start;

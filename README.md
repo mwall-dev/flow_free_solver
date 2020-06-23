@@ -9,6 +9,7 @@ Run makefile.
 
 "./flow (OPTION) (puzzles/puzzle_xxx_xx.txt) "
 
+
 ### Useful Notes
 Use -A to see solver animation.
 

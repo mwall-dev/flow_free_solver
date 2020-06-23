@@ -1,4 +1,4 @@
-# Flow Free solver in C
+# Flow Free solver using dijkstra's algorithm and dynamic programming
 ![alt text](https://github.com/mwall-dev/flow_free_solver/blob/master/before-and-after.png)
 
 

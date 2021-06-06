@@ -5,9 +5,9 @@
 
 ## Instructions and Sample
 ### On Unix Terminal
-Run makefile.
 
 ```
+make
 ./flow (OPTION) (puzzles/puzzle_xxx_xx.txt)
 ```
 

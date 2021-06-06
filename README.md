@@ -7,7 +7,9 @@
 ### On Unix Terminal
 Run makefile.
 
-"./flow (OPTION) (puzzles/puzzle_xxx_xx.txt) "
+```
+./flow (OPTION) (puzzles/puzzle_xxx_xx.txt)
+```
 
 
 ### Useful Notes
